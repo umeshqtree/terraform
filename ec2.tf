@@ -1,8 +1,8 @@
 #Declare Cloud,region,access and sectre key
 provider "aws" {
     region = "us-east-2"
-    access_key = "access"
-    secret_key = "secret"
+    access_key = "AKIAUHKANT7P37FWOINN"
+    secret_key = "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"
 }
 #######################################################
 #Creating the baction host
